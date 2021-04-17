@@ -1,6 +1,6 @@
 # Alex JJ Green
 
-** Self-taught, initially just for the fun of the challenge but now looking to 'go pro' **
+*Self-taught,* *initially* *just* *for* *the* *fun* *of* *the* *challenge* *but* *now* *looking* *to* *'go* *pro'*
 
 I work almost exclusively in Python and JS. My philosophy is that there's probably a specific language that can do a specific task better but the 2nd best option is usually Python so just use that for the whole project instead and abstract out that complexity.
 
