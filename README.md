@@ -1,6 +1,6 @@
 # Alex JJ Green
 
-### *Self-taught,* *looking* *to* *'go* *pro'*
+### *Self-taught* *hobbyist,* *going* *pro*
 
 Without getting too philosophical, I love coding; Programming to me is like the great equalizer... As long as you have access to a computer with an internet connection, boom... There it is. All the information you need to learn to code is free, all the tools you need are free too. If you are smart enough, patient enough and dedicated enough, you can make something out of yourself and anything you want out of code.
 
